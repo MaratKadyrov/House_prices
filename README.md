@@ -8,5 +8,5 @@
  6. Permutation importance для выявления значимости фич;
  7. Pseudo labeling для улучшения качества предсказания. 
  
- ## Результат - ТОП 1% таблицы лидеров.
+ ## Результат - ТОП 1% таблицы лидеров:
 <a href="https://ibb.co/LnDc1vw"><img src="https://i.ibb.co/jg9QDHK/image3.jpg" alt="image3" border="0"></a>
