@@ -6,7 +6,7 @@ Competition link - [House Prices - Advanced Regression Techniques](https://www.k
 What has been done:
 - Data preprocessing
 - Feature engineering
-- Models training: Lasso, XGboost, LGBM, Catboost,
+- Models training: XGboost, LGBM, Catboost,
 - Hyperparameters tuning with the help of Optuna
 - Feature analysis with the 'Feature importances' and 'Permutation importances'
 - Best result was achieved with the blending model: __101__ place out of __4239__ with a RMSLE metric __0.11759__
